@@ -1,2 +1,3 @@
-# NoteApp
 # Notes Android App
+
+## Features
