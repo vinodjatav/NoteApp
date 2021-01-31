@@ -2,8 +2,8 @@
 Created notes android app using java
 
 ## It has many features like-
-Login can only happen through Google Sign-In\
-Used Shared Preferences for permanent store\
-Added a button to add a new note\
-User can update a note\
-User can delete a note\
+1) Login can only happen through Google Sign-In\
+2) Used Shared Preferences for permanent store\
+3) Added a button to add a new note\
+4) User can update a note\
+5) User can delete a note\
